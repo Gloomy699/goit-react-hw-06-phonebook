@@ -1,0 +1,20 @@
+.contactDelBtn {
+  padding: 5px;
+  display: inline-block;
+  min-width: 100px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 0, 0);
+  outline: none;
+  cursor: pointer;
+
+  transition: color 250ms ease-in-out, background-color 250ms ease-in-out;
+}
+
+.contactDelBtn:hover {
+  background-color: rgb(255, 0, 0);
+  color: rgb(0, 0, 0);
+}

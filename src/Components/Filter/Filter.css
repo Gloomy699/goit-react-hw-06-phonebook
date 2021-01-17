@@ -1,0 +1,13 @@
+.section {
+  margin-bottom: 20px;
+}
+
+.phoneList {
+  border: 1px solid gray;
+  display: inline-block;
+  padding: 10px;
+}
+
+li {
+  list-style: none;
+}
